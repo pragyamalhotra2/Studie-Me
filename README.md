@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Studie Me
+This is web app made with react and redux and has single api service architechture in node js and a helper server for ML queries in Flask
 
 ## Code Guide
 
